@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @abuomerSD
+- 👀 I’m interested in JavaFx Desktop Applications Development and JavaScript Backend Development
+- 🌱 I’m currently learning Web Development 
+- 💞️ I’m looking to collaborate on Express js Apps
+- 📫 How to reach me : tayeb1293@yahoo.com
+
