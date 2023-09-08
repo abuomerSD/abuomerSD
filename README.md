@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **abuomerSD/abuomerSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### - 👋 Hi, I’m @abuomerSD
+- 👋 Hi, I’m @abuomerSD
 - 👀 I’m interested in JavaFx Desktop Applications Development and JavaScript Backend Development
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Express js Apps
