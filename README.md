@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="100" hieght="100"/>
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="350" hieght="350"/>
 </div>
 <h1 align="center">Hi 👋, I'm Eltayeb Ibrahim</h1>
 <h3 align="center">A passionate backend developer from Sudan</h3>
