@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="350" hieght="350"/>
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="300" hieght="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Eltayeb Ibrahim</h1>
-<h3 align="center">A passionate backend developer from Sudan</h3>
+<h3 align="center">A Passionate Backend Developer from Sudan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuomersd&label=Profile%20views&color=0e75b6&style=flat" alt="abuomersd" /> </p>
 
