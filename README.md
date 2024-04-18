@@ -1,4 +1,6 @@
-![image](https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif)
+<div align="center">
+  ![image](https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif)
+</div>
 <h1 align="center">Hi 👋, I'm Eltayeb Ibrahim</h1>
 <h3 align="center">A passionate backend developer from Sudan</h3>
 
