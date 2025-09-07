@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuomersd" alt="abuomersd" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
-- 👯 I’m looking to collaborate on **Node JS Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [eltayeb.onrender.com](eltayeb.onrender.com)
 
-- 💬 Ask me about **Java, JavaFx , Javascript, Node JS**
+- 💬 Ask me about **Java, JavaFx , Javascript, Vue.js, React.js, Node JS**
 
 - 📫 How to reach me **tayeb1293@yahoo.com**
 
