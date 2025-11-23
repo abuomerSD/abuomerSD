@@ -1,36 +1,85 @@
-<div align="center"> <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="300" height="300"/> </div> <h1 align="center">Hi 👋, I'm Eltayeb Ibrahim</h1> <h3 align="center">Backend Developer | Node.js • Express • MySQL • MongoDB</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuomersd&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<div align="center">
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="300" height="300"/>
+</div>
 
-🚀 Professional Summary
+<h1 align="center">Hi 👋, I'm Eltayeb Ibrahim</h1>
+<h3 align="center">Fullstack Developer | React • Node.js • Express • MySQL • MongoDB</h3>
 
-I am a Backend Node.js Developer with solid experience in building reliable, scalable, and secure server-side applications.
-My expertise focuses on Express.js, MySQL, MongoDB, API architecture, authentication systems, and backend performance optimization.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abuomersd&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
-I have delivered multiple real-world projects for companies and clients, and I am actively seeking opportunities where I can contribute to building high-quality backend systems and robust business logic.
+---
 
-🔧 Core Competencies
+## 🚀 Professional Summary
 
-- Backend Development using Node.js & Express.js
+I am a Fullstack JavaScript Developer specializing in building modern, scalable, and production-ready web applications.  
+I work confidently across both **frontend** and **backend**, using technologies like **Vue**, **Node.js**, **Express**, **MySQL**, and **MongoDB**.
+
+I’ve delivered real-world projects for companies and clients, focusing on clean architecture, optimized performance, and smooth user experience. I’m currently seeking opportunities where I can contribute to building fullstack applications with strong business logic and solid UI/UX.
+
+---
+
+## 🔧 Core Competencies
+
+### **Frontend**
+- Vue.js, Pinia
+- Tailwind CSS, CSS3, Responsive Design
+- Component-based architecture
+- API integration & state management
+
+### **Backend**
+- Node.js & Express.js
+- REST API architecture
+- Authentication & Authorization (JWT, bcrypt)
 - Database Design: MySQL, MongoDB, PostgreSQL
-- Building RESTful APIs, authentication (JWT, bcrypt), RBAC
-- Integrating backend with frontend frameworks
-- Writing clean, maintainable, production-ready code
-- Deploying applications (Render, Railway, Vercel)
-- Strong focus on performance, scalability, and security
+- Clean, maintainable, production-ready code
 
-📌 Current Focus
+### **Other Skills**
+- Git & GitHub workflows
+- Deployment: Render, Hostinger VPS
+- Performance optimization & best practices
+- System design basics
 
-- Enhancing backend architecture skills
-- Deepening knowledge in advanced database optimization
-- Learning NestJS for enterprise-grade applications
+---
 
-📫 Contact
+## 📌 Current Focus
 
-📧 eltayeb.293@gmail.com
-🔗 LinkedIn: linkedin.com/in/eltayeb-ibrahim
-🐦 Twitter: @abuomersd
+- Improving fullstack architecture skills  
+- Deepening knowledge in databases & API design  
+- Learning **NestJS** for enterprise-grade applications  
 
-🛠️ Technologies & Tools
-<p align="left"> <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/></a> <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/></a> <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></a> <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></a> <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></a> <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/></a> <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/></a> <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/></a> </p>
+---
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuomersd&layout=compact" height="150"/> <img src="https://github-readme-stats.vercel.app/api?username=abuomersd&show_icons=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuomersd" height="150"/> </div>
+## 📫 Contact
+
+📧 Email: **eltayeb.293@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/eltayeb-ibrahim**  
+🐦 Twitter: **@abuomersd**
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuomersd&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abuomersd&show_icons=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuomersd" height="150"/>
+</div>
