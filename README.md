@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Eltayeb Ibrahim</h1>
-<h3 align="center">Fullstack Developer | React • Node.js • Express • MySQL • MongoDB</h3>
+<h3 align="center">Fullstack Developer | Vue • Node.js • Express • MySQL • MongoDB</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abuomersd&label=Profile%20views&color=0e75b6&style=flat"/>
