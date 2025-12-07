@@ -13,10 +13,11 @@
 
 ## 🚀 Professional Summary
 
-I am a Fullstack JavaScript Developer specializing in building modern, scalable, and production-ready web applications.  
-I work confidently across both **frontend** and **backend**, using technologies like **Vue**, **Node.js**, **Express**, **MySQL**, and **MongoDB**.
+I am a Backend-Focused JavaScript Developer with strong experience in Node.js, Express, and database design using PostgreSQL, MySQL, and MongoDB. I specialize in building clean, scalable, and reliable backend systems with well-structured APIs, authentication, and solid business logic.
 
-I’ve delivered real-world projects for companies and clients, focusing on clean architecture, optimized performance, and smooth user experience. I’m currently seeking opportunities where I can contribute to building fullstack applications with strong business logic and solid UI/UX.
+I’ve built and delivered real-world applications using Node.js and modern frontend frameworks like Vue and React, with a focus on performance, clean architecture, and maintainability. My experience includes REST API development, CRUD systems, pagination, search, role-based access, and integration with cloud databases like MongoDB Atlas.
+
+I’m currently seeking opportunities to contribute as a backend or fullstack developer—especially in projects that require strong backend logic, database modeling, and building production-ready APIs.
 
 ---
 
